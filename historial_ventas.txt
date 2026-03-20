@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --- VENTA: 17/03/2026 17:53:43 ---
 Tamaño: 1 Kilo
 Sabores: Frutilla
@@ -6,3 +7,12 @@ Total Cobrado: $8000
 
 [18/03/2026 20:49:50] 3 Bochas | Sabores: Limón, Frutilla, Ananá | $1600
 [19/03/2026 22:54:12] 2 Bochas | Sabores: Frutilla, Ananá | $1200
+=======
+--- VENTA: 17/03/2026 17:53:43 ---
+Tamaño: 1 Kilo
+Sabores: Frutilla
+Total Cobrado: $8000
+=======================================
+
+[18/03/2026 20:49:50] 3 Bochas | Sabores: Limón, Frutilla, Ananá | $1600
+>>>>>>> 33fa18b8ba99ef4273a3089c737c86a20dd6f27c
