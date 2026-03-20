@@ -163,6 +163,7 @@ sabores = tk.LabelFrame(ventana, text=" 2. ELIGE TUS SABORES ", bg=color_fondo)
 limonA = tk.IntVar(); frutillA = tk.IntVar(); ananaA = tk.IntVar()
 nranjaA = tk.IntVar(); vainillA = tk.IntVar(); ddelecheA = tk.IntVar()
 tramntanA = tk.IntVar()
+messi = messi
 
 # tk.Checkbutton son los cuadraditos que podés tildar y destildar (múltiples opciones)
 # Usamos .grid() acá porque nos permite acomodarlos como en una tabla (filas y columnas)
